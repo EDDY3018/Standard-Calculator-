@@ -1,2 +1,2 @@
 # Standard-Calculator-
-A Desktop Stand alone Calculator 
+A Desktop Stand alone Calculator (JAVA GUI)
